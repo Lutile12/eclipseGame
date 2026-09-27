@@ -16,15 +16,23 @@ if(displayed_chars != text_length) {
 	
 	frames_since_last_char ++;
 	
-	with(speaker_inst) {
-		talking = true;
+	if(dialog_state == 0) {
+		with(speaker_inst) {
+			talking = true;
+		}
+	} else {
+		if(!audio_is_playing(snd_blip_narrator)) audio_play_sound(snd_blip_narrator, 1, true);	
 	}
 	
 } else {
 	
 	done = true;
-	with(speaker_inst) {
-		talking = false;
+	if(dialog_state == 0) {
+		with(speaker_inst) {
+			talking = false;
+		}
+	} else {
+		audio_stop_sound(snd_blip_narrator);
 	}
 	
 	if(keyboard_check_pressed(global.control_advance)) {

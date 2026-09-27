@@ -1,4 +1,4 @@
-if(lip_flap) {
+if(talking) {
 	image_speed = 1;
 	if(!audio_is_playing(blip_sound)) audio_play_sound(blip_sound, 1, true);
 } else {
