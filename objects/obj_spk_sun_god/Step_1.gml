@@ -1,0 +1,1 @@
+blip_sound = snd_blip_sun_god;

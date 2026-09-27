@@ -1,0 +1,10 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"obj_badge","order":1,"path":"objects/obj_badge/obj_badge.yy",},
+    {"name":"spr_badge_bed","order":4,"path":"sprites/spr_badge_bed/spr_badge_bed.yy",},
+    {"name":"spr_badge_eclipse","order":3,"path":"sprites/spr_badge_eclipse/spr_badge_eclipse.yy",},
+    {"name":"spr_badge_moon","order":2,"path":"sprites/spr_badge_moon/spr_badge_moon.yy",},
+    {"name":"spr_badge_sun","order":1,"path":"sprites/spr_badge_sun/spr_badge_sun.yy",},
+  ],
+}

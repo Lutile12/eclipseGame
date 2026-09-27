@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"key_LUT",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"key_LUT",
+  "parent":{
+    "name":"parse",
+    "path":"folders/Scripts/parse.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

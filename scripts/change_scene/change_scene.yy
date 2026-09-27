@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"change_scene",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"change_scene",
+  "parent":{
+    "name":"levels",
+    "path":"folders/Scripts/levels.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

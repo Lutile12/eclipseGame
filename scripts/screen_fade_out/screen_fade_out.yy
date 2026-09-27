@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"screen_fade_out",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"screen_fade_out",
+  "parent":{
+    "name":"camera",
+    "path":"folders/Scripts/camera.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

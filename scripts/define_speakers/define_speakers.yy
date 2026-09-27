@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"define_speakers",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"define_speakers",
+  "parent":{
+    "name":"parse",
+    "path":"folders/Scripts/parse.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

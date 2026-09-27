@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"draw_doubled_text",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_doubled_text",
+  "parent":{
+    "name":"ui",
+    "path":"folders/Scripts/ui.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

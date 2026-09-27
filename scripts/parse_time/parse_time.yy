@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"parse_time",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"parse_time",
+  "parent":{
+    "name":"timer",
+    "path":"folders/Scripts/timer.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
