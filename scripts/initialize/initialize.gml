@@ -23,9 +23,11 @@ function initialize(){
 	global.music = 0;
 	
 	global.moon_points = 0;
-	global.sun_points = 0;
+	global.sun_points = 0
+	global.eclipse_points = 0;
 	
 	
+	global.child_name = "The Child";
 	
 	global.child_phase = 0;
 	

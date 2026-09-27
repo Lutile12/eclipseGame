@@ -1,3 +1,9 @@
+if(talking) {
+	if(!audio_is_playing(blip_sound)) audio_play_sound(blip_sound, 1, true);
+} else {
+	audio_stop_sound(blip_sound);
+}
+
 switch(global.child_phase) {
 	
 	case -4:
