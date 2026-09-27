@@ -1,0 +1,1 @@
+sprite_index = spr_char_moon_god;
